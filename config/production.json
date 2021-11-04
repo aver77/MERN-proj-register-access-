@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "nikita mern app",
+    "mongoUri":"mongodb+srv://Nikita:!aA123123!@cluster0.frs6i.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
